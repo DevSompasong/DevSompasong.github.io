@@ -322,6 +322,15 @@ img {
         padding: 0px 5rem;
     }
 
+    .navbar .box-main {
+        background-color: white;
+        padding-left: 1rem;
+        padding-bottom: 1rem;
+        border-radius: 1rem;
+        margin-top: 1rem;
+    }
+
+
     .Hero h1 {
         font-size: 60px;
     }
@@ -329,6 +338,12 @@ img {
     #Layout2-1-3 .row {
         row-gap: 2rem;
     }
+
+    #Layout3-1-1 .row .card-2 {
+        padding-left: 0px;
+        margin-top: 2rem;
+    }
+
 
     #Layout4-1-3 .row .Layout4-1-3-img {
         height: auto;
@@ -352,6 +367,15 @@ img {
         padding: 0px 1rem;
     }
 
+    .navbar .box-main {
+        background-color: white;
+        padding-left: 1rem;
+        padding-bottom: 1rem;
+        border-radius: 1rem;
+        margin-top: 1rem;
+    }
+
+
     .Hero h1 {
         font-size: 40px;
     }
@@ -367,6 +391,11 @@ img {
     #layout3-1-1 .row .card-1 {
         width: auto;
         height: auto;
+    }
+
+    #Layout3-1-1 .row .card-2 {
+        padding-left: 0px;
+        margin-top: 2rem;
     }
 
     #Layout3-1-1 .row .card-2 {
